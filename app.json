@@ -1,6 +1,7 @@
 {
     "name": "Veramo Agent",
     "description": "Minimal deployment of @veramo/cli agent server to Heroku",
+    "stack": "container"
     "repository": "https://github.com/uport-project/veramo-agent-deploy",
     "keywords": [
       "node",
