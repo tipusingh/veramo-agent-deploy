@@ -29,7 +29,7 @@
       },
       "MESSAGING_PATH": {
         "description": "The messaging endpoint for your agent",
-        "value": "/messaging"
+        "value": "/messaging" 
       }
     }
   }
